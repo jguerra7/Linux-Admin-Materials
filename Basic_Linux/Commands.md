@@ -4,5 +4,10 @@
 
 ![image](https://user-images.githubusercontent.com/47218880/73407951-41019c00-42c0-11ea-9b37-cfcb61434f1f.png)
 
-Detecting Linux Distribution name and Version
+## Detecting Linux Distribution name and Version
 ```
+lsb_release -a 
+
+cat /etc/issue
+```
+
