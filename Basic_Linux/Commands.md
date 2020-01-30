@@ -28,3 +28,14 @@ Getting Help in Linux
 ## USER identification and who is who in the Linux Environment
 
 ![image](https://user-images.githubusercontent.com/47218880/73411122-d7868b00-42c9-11ea-9a11-e5505db80ed9.png)
+
+## Getting System Information
+Statistics about CPU, Memory, Network and Disk (I/O operations)
+
+![image](https://user-images.githubusercontent.com/47218880/73413423-44515380-42d1-11ea-9726-2d2804a7413c.png)
+
+## Using Tools like "lscpu and lshw"
+
+## List hardware
+
+## Find CPU model/ speed information
