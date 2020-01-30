@@ -17,3 +17,14 @@ Uname - is short for Unix name. Typing uname in the console we get information a
 uname [-option]
 ```
 ![image](https://user-images.githubusercontent.com/47218880/73410353-8bd2e200-42c7-11ea-882b-c302c44a9396.png)
+
+## Basic Linux Utilities
+
+Getting Help in Linux
+
+![image](https://user-images.githubusercontent.com/47218880/73411087-c3428e00-42c9-11ea-9db8-72837c94ab00.png)
+
+
+## USER identification and who is who in the Linux Environment
+
+![image](https://user-images.githubusercontent.com/47218880/73411122-d7868b00-42c9-11ea-9a11-e5505db80ed9.png)
