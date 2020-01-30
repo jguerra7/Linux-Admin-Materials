@@ -13,6 +13,7 @@ cat /etc/issue
 
 ## Uname - Print information about the current system
 Uname - is short for Unix name. Typing uname in the console we get information about your operating system.
-```uname [-option]
+```
+uname [-option]
 ```
 ![image](https://user-images.githubusercontent.com/47218880/73410353-8bd2e200-42c7-11ea-882b-c302c44a9396.png)
